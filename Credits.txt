@@ -1,4 +1,12 @@
 Resource pack:
-v1 by Em.2
+v1 by Acxi
+v2 additions by esi1E
+v3 complete overhaul by Charnanigans
+v3.1 Muted wither by Em.2
+v3.2 MipMaps fix by Em.2
+v3.3 Unmuted wither to start providing a secondary pack to do so by Em.2
+
+
+Suggestions, feedback, and original art done by the collective of and/or members of /r/TransPlace!
 
 If you read this you're based.
